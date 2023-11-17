@@ -1,27 +1,29 @@
-# AppTodo
+# To Do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+Este é um projeto de aplicativo de lista de tarefas desenvolvido com Angular. Ele oferece uma interface simples e intuitiva para gerenciar suas tarefas diárias de forma eficiente.
 
-## Development server
+![image](https://github.com/reissjoao/To-Do-List-angular/assets/106037010/9ff0a1b0-cc22-43a0-9a51-5bc697e303b5)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Como acessar o aplicativo
 
-## Code scaffolding
+Você pode acessar o aplicativo To-Do List Angular online através do seguinte link: [To-Do List Angular](https://to-do-list-angular-three.vercel.app/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Funcionalidades principais
 
-## Build
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Excluir tarefas
+- Filtrar tarefas por status (concluídas, não concluídas)
+- Deletar todas as tarefas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como usar o aplicativo
 
-## Running unit tests
+1. Ao acessar o aplicativo, você verá uma interface simples com uma caixa de entrada para adicionar novas tarefas.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Digite a descrição da tarefa na caixa de entrada e pressione Enter para adicioná-la à lista.
 
-## Running end-to-end tests
+3. Para marcar uma tarefa como concluída, clique na caixa de seleção à esquerda da tarefa.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+4. Para excluir uma tarefa, clique no ícone de lixeira ao lado dela.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+5. Para excluir todas as tarefas de uma vez, clique no botão "Deletar todos".
